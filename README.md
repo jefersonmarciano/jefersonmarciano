@@ -8,6 +8,6 @@
 
 <div>
   <a href="https://github.com/jefersonmarciano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?jefersonmarciano&show_incon=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?jefersonmarciano&show_incon=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?jefersonmarciano=anuraghazra&show_icons=true&theme=transparent"/>
 </div>
