@@ -3,7 +3,7 @@
 
 - 🔭 Hoje nao trabalho, procurando vaga como front
 - 🌱 Estudando Formação em tecnologia full-stack na escola DNC
-- 📫 Contate-me no email: jefersonmarcian10@gmail.com
+- 📫 Contate-me no email: jefersonmarcian6@gmail.com
 
 
 <div>
