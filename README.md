@@ -9,8 +9,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/jeferson-marciano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeferson-marciano" height="30" width="40" /></a>
 <a href="https://instagram.com/jeffmarcian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeffmarcian" height="30" width="40" /></a>
-<a href="https://discord.gg/ettym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ettym" height="30" width="40" /></a>
-<a href="/https://meu-portifolio-4s43.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://meu-portifolio-4s43.vercel.app/" height="30" width="40" /></a>
+<a href="https://discord.gg/191012544171737088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="191012544171737088" height="30" width="40" /></a>
+<a href="/meu-portifolio-4s43.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="meu-portifolio-4s43.vercel.app" height="30" width="40" /></a>
 </p>
 
 
