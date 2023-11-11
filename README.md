@@ -14,12 +14,7 @@
 </p>
 
 
-<div>
-  <a href="https://github.com/jefersonmarciano">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jefersonmarciano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jefersonmarciano&layout=compact&langs_count=16&theme=tokyonight"/>
- 
-</div>
+
 
   
 <h3 align="left">Languages and Tools:</h3>
