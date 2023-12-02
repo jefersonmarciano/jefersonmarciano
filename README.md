@@ -4,7 +4,7 @@
 <h3> Sou um apaixonado por programação e tecnologia!</h3>
 
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Formação em **Front-End** pelo <a href="https://www.escoladnc.com.br/">DNC</a>.
+- 🎓 Formação em **Front-End** pela <a href="https://www.escoladnc.com.br/">DNC</a>.
 - 👨‍💻 Aperfeiçoando meus conhecimentos na <a href="https://www.origamid.com/">Origamid</a>.
 
 
