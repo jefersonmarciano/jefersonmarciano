@@ -1,9 +1,21 @@
-## Olá! Sou Jeferson Marciano
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+## 🖖 Olá, meu nome é <strong>Jeferson Marciano!</strong>
+<h3> Sou um apaixonado por programação e tecnologia!</h3>
+
+- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Formação em **Front-End** pelo <a href="https://www.escoladnc.com.br/">DNC</a>.
+- 👨‍💻 Aperfeiçoando meus conhecimentos na <a href="https://www.origamid.com/">Origamid</a>.
 
 
-- 🔭 Hoje nao trabalho, procurando vaga como front
-- 🌱 Estudando Formação em tecnologia full-stack na escola DNC
-- 📫 Contate-me no email: jefersonmarcian6@gmail.com
+## 🚀 Minhas Skills
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,sass,ts," />
+  </a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
