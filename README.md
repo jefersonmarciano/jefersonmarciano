@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## 🖖 Olá, meu nome é <strong>Jeferson Marciano!</strong>
-<h3> Sou um apaixonado por programação e tecnologia!</h3>
+<h3> Um cara que gosta de codigos!</h3>
 
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formação em **Front-End** pela <a href="https://www.escoladnc.com.br/">DNC</a>.
