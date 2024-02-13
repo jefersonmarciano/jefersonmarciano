@@ -4,8 +4,8 @@
 <h3> Um cara que gosta de codigos!</h3>
 
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Se formando como Analista de sistemas pela <a href="https://www.anhanguera.com/">Anhanguera</a>.
-- 🎓 Formação em **Fullstack* pela <a href="https://www.escoladnc.com.br/">DNC</a>.
+- 🎓 Se formando como **Analista de sistemas** pela <a href="https://www.anhanguera.com/">Anhanguera</a>.
+- 🎓 Formação em **Fullstack** pela <a href="https://www.escoladnc.com.br/">DNC</a>.
 - 👨‍💻 Aperfeiçoando meus conhecimentos na <a href="https://www.origamid.com/">Origamid</a>.
 
 
